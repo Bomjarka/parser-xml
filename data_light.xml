@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auto-catalog>
+    <offers>
+        <offer>
+            <id>359039</id>
+            <mark>ГАЗ</mark>
+            <model>13 «Чайка»</model>
+            <generation>(1959-1981)</generation>
+            <year>1968</year>
+            <run>1453</run>
+            <color>Белый</color>
+            <body-type>Седан</body-type>
+            <engine-type>Бензин</engine-type>
+            <transmission>Автоматическая</transmission>
+            <gear-type>Задний</gear-type>
+            <generation_id>20351648</generation_id>
+        </offer>
+    </offers>
+</auto-catalog>
